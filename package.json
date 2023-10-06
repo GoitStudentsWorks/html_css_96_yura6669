@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vyshyvankaVibes17/",
+    "build": "vite build --base=/html_css_96_yura6669/",
     "preview": "vite preview"
   },
   "devDependencies": {
